@@ -1,2 +1,2 @@
-Django Project following Corey Schaffer course on YouTube.
+Django Project following Corey Schafer course on YouTube.
 
